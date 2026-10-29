@@ -1,0 +1,2 @@
+# -AN-IOT-ENABLED-PASSENGER-VALIDATION-AN-AUTOMATED-TRAIN-STEP-DEPLOYMENT-SYSTEM-
+This project integrates IoT-based railway safety with automated boarding steps, QR-code ticket validation, and passenger counting. Arduino Uno, ultrasonic sensors, servo motors, and ESP32 enable gap detection, step control, smartphone-based ticket verification, and relay-controlled access, improving passenger safety and boarding efficiency.
